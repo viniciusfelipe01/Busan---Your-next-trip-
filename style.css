@@ -80,3 +80,13 @@ h2 {
 #points {
   margin-bottom: 48px;
 }
+
+#divisor2 {
+  border-top: 1px solid silver;
+  opacity: 30%;
+  margin: 40px 0;
+}
+
+#final {
+  text-align: center;
+}

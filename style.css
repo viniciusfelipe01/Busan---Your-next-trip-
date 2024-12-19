@@ -62,3 +62,21 @@ h2 {
 #pabout{
   margin: 0;
 }
+
+.cardtravel img {
+  border-radius: 28px;
+  margin-bottom: 20px;
+}
+
+.cardtravel h3{
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+
+.cardtravel p{
+  margin: 0;
+}
+
+#points {
+  margin-bottom: 48px;
+}

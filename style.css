@@ -10,7 +10,7 @@
 }
 
 
-.tips {
+.tips1 {
   text-transform: uppercase;
   font-size: 16px;
   font-weight: bold;
@@ -40,4 +40,25 @@ h1 {
 #divisor {
   border-top: 1px solid silver;
   opacity: 30%;
+}
+
+#about {
+  margin: 64px 0;
+}
+
+.tips2 {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: bold;
+  color: #E1624F;
+  margin: 0;
+}
+
+h2 {
+  margin-top: 2px;
+  margin-bottom: 0;
+}
+
+#pabout{
+  margin: 0;
 }
